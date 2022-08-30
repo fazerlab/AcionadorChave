@@ -1,4 +1,4 @@
-# AcionadorChave
+# Acionador Chave
 Acionador Chave baseado no ESP32  
 Release versão: v1.0.1  
 Em breve documentação  
