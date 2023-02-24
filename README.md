@@ -7,7 +7,7 @@ Release versão: v1.0.1
 # Diagrama do Hardware
 ![diagrama](doc/diagrama_esquematico.png)
 
+# Guia Montagem e Configuração
+[Materiais, diagrama elétrico, configuração](docs/acionador_chave_guia.pdf)
 
-Em breve documentação  
-- Gravação do Firmware  
-- Utilização  
+
